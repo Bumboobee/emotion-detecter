@@ -1,0 +1,19 @@
+:root {
+    --bg-color: #272727;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bg-color);
+}
+
+canvas {
+    position: absolute;
+    color: red !important;
+}
