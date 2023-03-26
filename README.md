@@ -1,6 +1,6 @@
-## **[The Emotional](https://bumboobee.github.io/EmotionDetecter/)** app
+## **[The Emotional](https://bumboobee.github.io/emotion-detecter/)** app
 
-**Never get yourself wondering at in the fuc**** worl your **[crushes fellted](https://bumboobee.github.io/EmotionDetecter/)** about you??**
+**Never get yourself wondering at in the fuc**** worl your **[crushes fellted](https://bumboobee.github.io/emotion-detecter/)** about you??**
 
 OK, maybe not.. but what if **I say that you can see they* emotion?** would you **want to see it?**
 
@@ -22,7 +22,7 @@ With one click, this *now is possible:*
 
 ## Where can i see it?
 
-Click **[➡here⬅](https://bumboobee.github.io/EmotionDetecter/)** to see the project.
+Click **[➡here⬅](https://bumboobee.github.io/emotion-detecter/)** to see the project.
 
 <div align="center">
 
